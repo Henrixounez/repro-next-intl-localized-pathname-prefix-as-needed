@@ -1,0 +1,10 @@
+{
+  "home": {
+    "title": "Le titre de notre site",
+    "description": "Ceci est une description en français.",
+    "goTo": {
+      "fr": "Aller à la version française",
+      "en": "Aller à la version anglaise"
+    }
+  }
+}
