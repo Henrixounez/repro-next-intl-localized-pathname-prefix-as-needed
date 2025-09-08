@@ -1,5 +1,11 @@
 {
   "home": {
+    "title": "Page d'accueil",
+    "goTo": {
+      "translation": "Aller à la page de traduction"
+    }
+  },
+  "traduction": {
     "title": "Le titre de notre site",
     "description": "Ceci est une description en français.",
     "goTo": {

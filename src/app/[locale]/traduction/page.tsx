@@ -10,7 +10,7 @@ export default async function TraductionPage({
   
   setRequestLocale(locale);
 
-  const t = await getTranslations("home");
+  const t = await getTranslations("traduction");
 
   return (
     <div>
